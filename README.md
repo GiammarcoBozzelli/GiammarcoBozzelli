@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @GiammarcoBozzelli
-- 👀 I’m interested in Tech Businesses and Software
-- 🌱 I’m currently getting my feet wet in Deep Learning 
-- 💞️ I’m looking to collaborate on developing Tech Startups 
-- 📫 Email me at: giammarcobozzelli3006@gmail.com
+# - 👋 Hi, I’m @Giammarco
+### - 👀 I’m interested in Tech Businesses and Software
+### - 🌱 I’m currently getting my feet wet in Deep Learning 
+### - 💞️ I’m looking to collaborate on developing Tech Startups 
+### - 📫 Email me at: giammarcobozzelli3006@gmail.com
 
-### Nobody asked for it, anyway here's a list of books I think everyone should read:
+
+
+
+
+
+
+
+**Nobody asked for it, anyway here's a list of books I think everyone should read:**
 - The Black Swan: The Impact of the Highly Improbable by _Nassim Nicholas Taleb_
 - Think Again by _Adman Grant_ 
 - Range by _David Epstein_
